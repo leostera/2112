@@ -1,0 +1,23 @@
+{
+  "name": "2112",
+  "version": "2.1.12",
+  "description": "Zshhweiiiiiiiinnngggg PA-RAM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ostera/2112.git"
+  },
+  "keywords": [
+    "rush",
+    "2112"
+  ],
+  "author": "Leandro Ostera <leandro@ostera.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ostera/2112/issues"
+  },
+  "homepage": "https://github.com/ostera/2112#readme"
+}
